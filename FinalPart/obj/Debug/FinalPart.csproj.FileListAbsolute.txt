@@ -1,0 +1,11 @@
+C:\Users\Игорь\source\repos\FinalPart\FinalPart\bin\Debug\FinalPart.exe.config
+C:\Users\Игорь\source\repos\FinalPart\FinalPart\bin\Debug\FinalPart.exe
+C:\Users\Игорь\source\repos\FinalPart\FinalPart\bin\Debug\FinalPart.pdb
+C:\Users\Игорь\source\repos\FinalPart\FinalPart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Игорь\source\repos\FinalPart\FinalPart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Игорь\source\repos\FinalPart\FinalPart\obj\Debug\FinalPart.csproj.AssemblyReference.cache
+C:\Users\Игорь\source\repos\FinalPart\FinalPart\obj\Debug\FinalPart.csproj.SuggestedBindingRedirects.cache
+C:\Users\Игорь\source\repos\FinalPart\FinalPart\obj\Debug\FinalPart.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\FinalPart\FinalPart\obj\Debug\FinalPart.csproj.CopyComplete
+C:\Users\Игорь\source\repos\FinalPart\FinalPart\obj\Debug\FinalPart.exe
+C:\Users\Игорь\source\repos\FinalPart\FinalPart\obj\Debug\FinalPart.pdb
